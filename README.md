@@ -2,14 +2,14 @@
 
 A machine learning project that predicts whether a customer is likely to leave a company's service based on customer information.
 
-The project includes data preprocessing, feature engineering, model training, evaluation, and a **Streamlit web interface** for making individual customer churn predictions.
+The project includes data preprocessing, feature engineering, model training, evaluation, and an interactive **Streamlit web application** for making individual customer churn predictions.
 
 ---
 
 ## 🚀 Features
 
 - 🔍 Customer churn prediction
-- 🧹 Data preprocessing and cleaning
+- 🧹 Data preprocessing and data cleaning
 - 🔢 Feature encoding and scaling
 - 🤖 Machine learning model training
 - 📈 Model performance evaluation
@@ -41,7 +41,7 @@ Customer Dataset
        ↓
 Data Cleaning
        ↓
-Preprocessing
+Data Preprocessing
        ↓
 Feature Encoding & Scaling
        ↓
@@ -71,13 +71,3 @@ Customer_Churn_Prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
-
-**Important:** Your screenshot showed the LinkedIn placeholder. The version above also fixes that.
-
-After pasting and saving:
-
-```bash
-git add README.md
-git commit -m "Improve Customer Churn Prediction README"
-git push
