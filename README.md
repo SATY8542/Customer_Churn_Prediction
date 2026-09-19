@@ -55,8 +55,9 @@ Streamlit Application
        ↓
 Customer Churn Prediction
 
- ##📁 Project Structure
-
+---
+ ## 📁 Project Structure
+---
 Customer_Churn_Prediction/
 │
 ├── data/
@@ -73,3 +74,4 @@ Customer_Churn_Prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+---
