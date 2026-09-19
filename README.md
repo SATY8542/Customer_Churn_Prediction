@@ -71,3 +71,13 @@ Customer_Churn_Prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+**Important:** Your screenshot showed the LinkedIn placeholder. The version above also fixes that.
+
+After pasting and saving:
+
+```bash
+git add README.md
+git commit -m "Improve Customer Churn Prediction README"
+git push
